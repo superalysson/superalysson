@@ -1,4 +1,4 @@
-### Olá, meu nomeé Alysson e esse é o meu perfil
+### Olá, meu nome é Alysson e esse é o meu perfil
 
 <div align="center">
   <a href="https://github.com/superalysson">
